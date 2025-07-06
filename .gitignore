@@ -1,0 +1,26 @@
+# === Node (React frontend) ===
+node_modules/
+build/
+
+# === Python (Flask backend) ===
+venv/
+__pycache__/
+*.pyc
+
+# === Secrets ===
+.env
+*.env
+
+# === OS & Misc ===
+.DS_Store
+*.log
+
+# === Tests ===
+coverage/
+
+# === VSCode ===
+.vscode/
+
+# === Others ===
+*.sqlite3
+*.db
